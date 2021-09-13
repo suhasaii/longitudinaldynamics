@@ -5,6 +5,8 @@ You can use the [editor on GitHub](https://github.com/suhasaii/longitudinaldynam
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 Linking page1 [PAge1](https://github.com/suhasaii/longitudinaldynamics/_layout/page1) 
+[a relative link](_layout/page1.md)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
